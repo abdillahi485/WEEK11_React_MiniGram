@@ -157,6 +157,11 @@ body {
   line-height: 1.4;
 }
 
-.post-caption .username {
+.post-caption h3 {
   margin-right: 6px;
+  display: inline;
+}
+
+.post-caption p {
+  display: inline;
 }
